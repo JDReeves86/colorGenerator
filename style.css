@@ -1,0 +1,39 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hex {
+    display: flex;
+    width: 20rem;
+    justify-content: space-between;
+}
+
+#code {
+    margin-left: 5rem;
+}
+
+.boxnbut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box {
+    display: flex;
+    height: 20rem;
+    width: 40rem;
+    margin: 2rem;
+    background-color: white;
+    border: 2px, solid, black;
+}
+
+#btn {
+    width: 10rem;
+    height: 3.5rem;
+}
