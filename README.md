@@ -17,11 +17,9 @@
 
 ---
 
-Ever played High-Low with dice before? Ever lost money playing dice? Enjoy this rudimentary take on High-Low, where the stakes are low, and the quality of my CSS is lower. 
+You want colors? We got you covered. Don't know which color you want? We got you. Want a series of colors that blend together well and synergize to create that killer palette that will drop jaws? We probably don't got you.
 
-Upon starting the game you will be prompted to pick a number 1-6. Once you have made your choice, you will choose if the dice roll is higher or lower than your guess. If correct, you win! If not, you lose. What do you win? Nothing. What do you lose? 10 seconds of your time. Why spend time with your *family* or *friends* doing *things you love*? When you could be playing this game over and over and over and over...
-
-Despite what you may feel about the simple nature of this game, my daughter loves playing it. Her opinion means a lot to me. This was developed as a way to practice some of the JS concepts I learned while preparing myself for more formal training and education in web development. It's not the prettiest, but it works and that was my goal.
+It's a random color generator, you get what you get and you don't throw a fit. My first project built on my own using concepts learned through independent study. It was a way to practice understanding how the Math.random function works and how to iterate over arrays to build output. I added a really basic UI for interaction to demonstrate proof of concept and not much else.
 
 ---
 
@@ -34,6 +32,8 @@ Despite what you may feel about the simple nature of this game, my daughter love
 
 ![myscreenshot](./assets/Screenshot1.png)
 
+No color yet.
+
 <br>
 
 ---
@@ -42,17 +42,9 @@ Despite what you may feel about the simple nature of this game, my daughter love
 
 ![myscreenshot](./assets/Screenshot2.png)
 
-I have the worst luck.
+Color!
 
 <br>
-
----
-
-<br>
-
-![myscreenshot](./assets/Screenshot3.png)
-
-We're not playing D&D... no 20 sided dice here.
 
 ---
 
@@ -69,6 +61,6 @@ GitHub repositories: https://github.com/JDReeves86?tab=repositories
 
 Portfolio: https://jdreeves86.github.io/02challengeTurnIn/
 
-Dice Game live page: https://jdreeves86.github.io/diceGame/
+Random Color Generator live page: https://jdreeves86.github.io/colorGenerator/
 
 LinkedIn: https://www.linkedin.com/in/jacob-reeves-4237a9238/
